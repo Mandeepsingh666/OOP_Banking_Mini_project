@@ -1,8 +1,11 @@
 {
-    "f_name": "man",
-    "l_name": "sing",
-    "adr": "000",
-    "ph_number": 1111,
-    "Cash_in_account": 0,
-    "Account_type": "Checking Account"
+    "first_name": "mandeep ",
+    "l_name": "singh",
+    "adr": "101-ave",
+    "ph_number": 9177174941,
+    "Cash_in_account": 1,
+    "Base_salary": 60000,
+    "P": 5000,
+    "rate": "12%",
+    "Months": 60
 }
